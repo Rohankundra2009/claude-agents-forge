@@ -41,11 +41,17 @@ Future improvements for claude-agents-forge. Contributions welcome — pick any 
 
 ## v2.2 — Memory & Learning
 
-- [ ] **Cross-session learning** — agents remember project patterns across runs
-- [ ] **Team knowledge base** — shared memory between quality agents
+- [ ] **MCP Memory Service integration** — structured long-term memory via MCP (SQLite-vec, semantic search)
+- [ ] **Memory-aware prompts** — agents consult memory before starting and save findings after
+- [ ] **Project fingerprinting** — auto-detect stack, conventions, linting config and persist to memory
+- [ ] **Cross-session learning** — agents remember project patterns, past review findings, recurring issues
+- [ ] **Team knowledge base** — shared memory between quality agents (e.g., reviewer learns what auditor found)
+- [ ] **Memory scoping strategy** — guidelines for what goes into user / project / local memory
 - [ ] **Auto-calibration** — agents adjust review depth based on past false positive rate
-- [ ] **Pattern library** — reusable review checklists per framework
+- [ ] **Pattern library** — reusable review checklists per framework, stored in memory
 - [ ] **Memory export/import** — share learned patterns between projects
+- [ ] **Memory hygiene** — automatic cleanup of stale/conflicting memories, deduplication
+- [ ] **Onboarding memory** — first-run agent populates memory with project structure, key files, dependencies
 
 ## v3.0 — Plugin System
 
